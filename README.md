@@ -21,5 +21,4 @@ limitations under the License.
 ## Description
 
 Open-Source Energy System Modeling, VU 370.062: homework assignment 3
-TU Wien - Summer term
 
