@@ -22,3 +22,6 @@ limitations under the License.
 
 Open-Source Energy System Modeling, VU 370.062: homework assignment 3
 
+Add a new technology “gas power plant”
+Finding a “sweet spot” of prices on carbon such that coal, wind and gas are used
+at the same time
