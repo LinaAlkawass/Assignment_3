@@ -21,6 +21,8 @@ limitations under the License.
 # Description
 Open-Source Energy System Modeling, VU 370.062: homework assignment 3
 
+In this assignment the following two features have been added to Baseline tutorial (westeros_baseline.ipynb).
+
 ## Add a new technology “gas power plant” (scenario_gas_ppl.ipynb)
 Pre-requisites:
 - MESSAGEix framework installed and working
