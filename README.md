@@ -26,7 +26,7 @@ Pre-requisites:
 - MESSAGEix framework installed and working
 - Run Westeros baseline scenario (westeros_baseline.ipynb) and solved it successfully
 
-## Finding a “sweet spot” of prices on carbon such that coal, wind and gas are used at the same time (Carbon_price.ipynd)
+## Finding a “sweet spot” of prices on carbon such that coal, wind and gas are used at the same time (Carbon_price.ipynb)
 Pre-requisites
 - MESSAGEix framework installed and working
 - Run Westeros baseline scenario (westeros_baseline.ipynb) and solved it successfully
