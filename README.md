@@ -18,10 +18,16 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-## Description
-
+# Description
 Open-Source Energy System Modeling, VU 370.062: homework assignment 3
 
-Add a new technology “gas power plant”
-Finding a “sweet spot” of prices on carbon such that coal, wind and gas are used
-at the same time
+## Add a new technology “gas power plant” (scenario_gas_ppl.ipynb)
+Pre-requisites:
+- MESSAGEix framework installed and working
+- Run Westeros baseline scenario (westeros_baseline.ipynb) and solved it successfully
+
+## Finding a “sweet spot” of prices on carbon such that coal, wind and gas are used at the same time (Carbon_price.ipynd)
+Pre-requisites
+- MESSAGEix framework installed and working
+- Run Westeros baseline scenario (westeros_baseline.ipynb) and solved it successfully
+- Run the tutorial on introducing gas power plant (scenario_gas_ppl.ipynb)
